@@ -7,7 +7,7 @@ subscribers:
 
 
   camera_reading:
-    topic: /camera/image_rect_color
+    topic: /camera_front/image_raw
     queue_size: 1
 
 actions:
